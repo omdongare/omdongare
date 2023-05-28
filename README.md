@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omdong
+- 👋 Hi, I’m OmkarDongare
 - 👀 I’m interested in ...
 - 🌱  I’m currently learning Core Java, HTML, CSS, JavaScript, SQL
 - 💬 Ask me about Core Java
