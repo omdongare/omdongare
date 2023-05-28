@@ -1,9 +1,9 @@
 - 👋 Hi, I’m OmkarDongare
-- 👀 I’m interested in ...
+- 👀 I’m interested in codding
 - 🌱  I’m currently learning Core Java, HTML, CSS, JavaScript, SQL
 - 💬 Ask me about Core Java
 
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me omdongare@gmail.com
 
 <!---
